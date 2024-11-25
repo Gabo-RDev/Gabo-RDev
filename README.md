@@ -1,42 +1,56 @@
-<h2 align="left">Hi 👋! My name is Gabriel and I'm a React Developer.</h2>
-<div align="center">  
-  <a href="https://git.io/typing-svg">
-    <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Developer+in+progress;Web+Development+Enthusiast+" alt="Typing SVG" />
-  </a>
+# Hey there, I'm Gabriel <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/800px-Twitter_Verified_Badge.svg.png" height="20px"/> 👨🏽‍💻
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software+Developer+in+progress;Web+Development+Enthusiast"></a>
+</p>
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<!-- My Profile -->
+
+<div style="display: flex; align-items: center;">
+
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" style="margin-right: 20px;" />
+
+```json
+{
+  "mainLanguages": "JavaScript",
+  "passionateAbout": [
+    "FrontEnd development and constantly learning new technologies.",
+    "Building the future, line of code by line of code!",
+  ],
+  "futureGoals": [
+    "Get a job's tech",
+    "Never stop creating new ideas"
+  ]
+}
+```
+</div> 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,postgres)](https://skillicons.dev)
+
+## <b>Socials!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+
+<div align='center'>
+<ul>
+<a href="www.linkedin.com/in/imnotgabo" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Gabriel Rodriguez-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</ul>
 </div>
 
+<h2 align="left">Stars</h2> 
 
 <div align="center">
-  <img height="100" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGtmMm83OGpycmNkbGoxYXFzMTRqY2FlNDFjdjBzY3RiYmZub3VwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D8FlWNIf8otcDpucx8/giphy.gif"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImNotGabo&layout=compact&theme=tokyonight" alt="Wil-JsDev" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ImNotGabo&show_icons=true&locale=en&theme=tokyonight" alt="Wil-JsDev" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ImNotGabo&theme=tokyonight" alt="Wil-JsDev" />
 </div>
 
-###
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Wil-JsDev&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImNotGabo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false&order=1&custom_title=Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImNotGabo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ImNotGabo&locale=en&mode=daily&theme=monokai&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=ImNotGabo&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
