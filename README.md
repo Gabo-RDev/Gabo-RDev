@@ -1,6 +1,10 @@
 <h2 align="left">Hi 👋! My name is Gabriel and I'm a React Developer.</h2>
+<div align="center">  
+  <a href="https://git.io/typing-svg">
+    <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Developer+in+progress;Web+Development+Enthusiast+" alt="Typing SVG" />
+  </a>
+</div>
 
-###
 
 <div align="center">
   <img height="100" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGtmMm83OGpycmNkbGoxYXFzMTRqY2FlNDFjdjBzY3RiYmZub3VwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D8FlWNIf8otcDpucx8/giphy.gif"  />
