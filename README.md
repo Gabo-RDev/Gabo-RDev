@@ -1,7 +1,7 @@
-# Hey there, I'm Gabriel <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/800px-Twitter_Verified_Badge.svg.png" height="20px"/> 👨🏽‍💻
+# Hi bud 👋, I'm Gabriel and I'm a React Developer <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/800px-Twitter_Verified_Badge.svg.png" height="20px"/> 👨🏽‍💻
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software+Developer+in+progress;Web+Development+Enthusiast"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software+Developer;Web+Development+Enthusiast"></a>
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
@@ -9,7 +9,7 @@
 
 <div style="display: flex; align-items: center;">
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" style="margin-right: 20px;" />
+<img align="right" alt="GIF" height="160px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmg1NXpqZ3ZwMmtwdzRrbm16eGZzN3RlMmxqYzdsdDNjcTc4bnVqOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D8FlWNIf8otcDpucx8/giphy.gif" style="margin-right: 20px;" />
 
 ```json
 {
