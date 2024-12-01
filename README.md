@@ -30,7 +30,7 @@
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,redux,react,tailwind,nodejs,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,redux,react,tailwind,nodejs,postgres,github)](https://skillicons.dev)
 
 ## <b>Socials!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
@@ -45,12 +45,12 @@
 <h2 align="left">Stars</h2> 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImNotGabo&layout=compact&theme=tokyonight" alt="Wil-JsDev" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ImNotGabo&show_icons=true&locale=en&theme=tokyonight" alt="Wil-JsDev" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ImNotGabo&theme=tokyonight" alt="Wil-JsDev" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImNotGabo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ImNotGabo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ImNotGabo&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Wil-JsDev&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+  <img src="https://github-profile-trophy.vercel.app?username=ImNotGabo&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
