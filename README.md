@@ -20,7 +20,7 @@
   ],
   "futureGoals": [
     "Get a job's tech",
-    "Never stop creating new ideas"
+    "Never stop just keeping going"
   ]
 }
 ```
