@@ -1,4 +1,4 @@
-# Hi buddy 👋, I'm Gabriel and I'm a FrontEnd Developer <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/800px-Twitter_Verified_Badge.svg.png" height="20px"/> >💻
+# Hi buddy 👋, I'm Gabriel and I'm a FrontEnd Developer 💻
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software+Developer;Web+Development+Enthusiast"></a>
