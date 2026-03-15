@@ -23,7 +23,7 @@
     "Continuously evolve, never give up, and always keep moving forward."
   ]
   "learning": [
-    "C# and .NET"
+    "n8n, MCPs and AI slop"
   ]
 }
 
